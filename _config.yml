@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Deep Learning"
+title                    : "AI & Deep Learning"
 title_separator          : "-"
 name                     : &name "Zohreh Adabi-Firuzjaee"
-description              : &description "PhdD stutent at Ferdowsi University of Mashhad"
+description              : &description "desc"
 url                      : https://ZohrehAdabi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZohrehAdabi/ZohrehAdabi.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zohreh Adabi"
+  name             : "Zohreh Adabi-Firuzjaee"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD stutent at Ferdowsi University of Mashhad"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
